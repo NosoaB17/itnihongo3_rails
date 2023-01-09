@@ -1,0 +1,3 @@
+
+rails g scaffold Book title:string number_of_pages:integer
+rake db:migrate
